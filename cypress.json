@@ -6,6 +6,10 @@
         "apiURL": "https://deckofcardsapi.com/api/deck/",
         "e2eURL": "https://www.gamesforthebrain.com/game/checkers/"
       },
-      "projectId": "kmdxqz"
+      "projectId": "kmdxqz",
+      "retries": {
+        "runMode": 3,
+        "openMode": 0
+      }
  }
  
