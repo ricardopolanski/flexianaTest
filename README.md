@@ -2,7 +2,9 @@
 
 [![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=ricardopolanski_flexianaTest&metric=alert_status)](https://sonarcloud.io/summary/new_code?id=ricardopolanski_flexianaTest)
 
-<H1>How to install and run automated Smart Flexiana Challenge test</h1>
+To check the project into Cypress DashBoard, please, follow the link [Cypress DashBoard](https://dashboard.cypress.io/projects/kmdxqz/runs "Cypress DashBoard") Framework. 
+
+<H1>How to install and run automated Flexiana Challenge test</h1>
 
 <h3>Requirements</h3>
 
@@ -27,10 +29,26 @@
 
 The project was developed using [Cypress](https://www.npmjs.com/package/cypress "Cypress") Framework.
 Was writen four scenarios as following:
-  1. Add Computers
-  2. Delete Computers
-  3. Edit Computers
-  4. Filter Computer by name
+API Testing
+  1 - Create a deck
+  2 - Shuffle the deck
+  3 - Draw 3 cards from deck
+  4 - Make 2 piles with 5 cards each from deck
+  5 - List the cards in pile1 and pile2
+  6 - shuffle pile1
+  7 - draw 2 cards from pile1
+  8 - draw 3 cards from pile2
+
+E2E Testing
+
+  1 - start a new game by restarting
+  2 - Make your first move
+  3 - Let computer move
+  4 - Make your second move
+  5 - Let computer take your piece
+  6 - Make sure your piece is taken
+  7 - Start a new game
+
   
 <h3>Project Structure</h3>
 
