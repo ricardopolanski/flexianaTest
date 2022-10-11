@@ -2,7 +2,6 @@ import * as apiRequests from '../apiRequest/requests'
 
 
 let deckId;
-// let deckId = 'cof94g8t64cb';
 let countCards
 let piles = {
     player1: 'ricardo',
