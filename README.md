@@ -31,24 +31,24 @@ The project was developed using [Cypress](https://www.npmjs.com/package/cypress 
  
 Was writen four scenarios as following:
 API Testing
-  1 - Create a deck
-  2 - Shuffle the deck
-  3 - Draw 3 cards from deck
-  4 - Make 2 piles with 5 cards each from deck
-  5 - List the cards in pile1 and pile2
-  6 - shuffle pile1
-  7 - draw 2 cards from pile1
-  8 - draw 3 cards from pile2
+  1. Create a deck
+  2. Shuffle the deck
+  3. Draw 3 cards from deck
+  4. Make 2 piles with 5 cards each from deck
+  5. List the cards in pile1 and pile2
+  6. shuffle pile1
+  7. draw 2 cards from pile1
+  8. draw 3 cards from pile2
 
 E2E Testing
 
-  1 - start a new game by restarting
-  2 - Make your first move
-  3 - Let computer move
-  4 - Make your second move
-  5 - Let computer take your piece
-  6 - Make sure your piece is taken
-  7 - Start a new game
+  1. start a new game by restarting
+  2. Make your first move
+  3. Let computer move
+  4. Make your second move
+  5. Let computer take your piece
+  6. Make sure your piece is taken
+  7. Start a new game
 
   
 <h3>Project Structure</h3>
