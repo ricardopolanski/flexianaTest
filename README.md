@@ -2,7 +2,7 @@
 
 [![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=ricardopolanski_flexianaTest&metric=alert_status)](https://sonarcloud.io/summary/new_code?id=ricardopolanski_flexianaTest)
 
-To check the project into Cypress DashBoard, please, follow the link [Cypress DashBoard](https://dashboard.cypress.io/projects/kmdxqz/runs "Cypress DashBoard") Framework. 
+
 
 <H1>How to install and run automated Flexiana Challenge test</h1>
 
@@ -28,6 +28,7 @@ To check the project into Cypress DashBoard, please, follow the link [Cypress Da
 <h3>About the project</h3>
 
 The project was developed using [Cypress](https://www.npmjs.com/package/cypress "Cypress") Framework.
+To check the project into Cypress DashBoard, please, follow the link [Cypress DashBoard](https://dashboard.cypress.io/projects/kmdxqz/runs "Cypress DashBoard"). 
 Was writen four scenarios as following:
 API Testing
   1 - Create a deck
