@@ -1,0 +1,1 @@
+[![Flexiana Challenge](https://github.com/ricardopolanski/flexianaTest/actions/workflows/main.yml/badge.svg)](https://github.com/ricardopolanski/flexianaTest/actions/workflows/main.yml)
