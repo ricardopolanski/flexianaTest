@@ -32,6 +32,7 @@ The project was developed using [Cypress](https://www.npmjs.com/package/cypress 
 To check the project into Cypress DashBoard, please, follow the link [Cypress DashBoard](https://dashboard.cypress.io/projects/kmdxqz/runs "Cypress DashBoard"). 
 
 Was writen four scenarios as following:
+
 API Testing
   1. Create a deck
   2. Shuffle the deck
