@@ -28,7 +28,9 @@
 <h3>About the project</h3>
 
 The project was developed using [Cypress](https://www.npmjs.com/package/cypress "Cypress") Framework.
- 
+
+To check the project into Cypress DashBoard, please, follow the link [Cypress DashBoard](https://dashboard.cypress.io/projects/kmdxqz/runs "Cypress DashBoard"). 
+
 Was writen four scenarios as following:
 API Testing
   1. Create a deck
