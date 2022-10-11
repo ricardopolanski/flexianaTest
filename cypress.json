@@ -1,0 +1,11 @@
+{
+    "integrationFoder": ".",
+    "testFiles": "**/*.spec.js",
+    "hideXHR": true,  
+    "env": {
+        "apiURL": "https://deckofcardsapi.com/api/deck/",
+        "e2eURL": "https://www.gamesforthebrain.com/game/checkers/"
+      },
+      "projectId": "kmdxqz"
+ }
+ 
