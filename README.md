@@ -1,5 +1,7 @@
 [![Flexiana Challenge](https://github.com/ricardopolanski/flexianaTest/actions/workflows/main.yml/badge.svg)](https://github.com/ricardopolanski/flexianaTest/actions/workflows/main.yml)
 
+[![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=ricardopolanski_flexianaTest&metric=alert_status)](https://sonarcloud.io/summary/new_code?id=ricardopolanski_flexianaTest)
+
 <H1>How to install and run automated Smart Flexiana Challenge test</h1>
 
 <h3>Requirements</h3>
