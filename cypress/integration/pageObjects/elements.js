@@ -13,7 +13,6 @@ function pageElements() {
         startGame,
         space02,
         space13,
-        space15,
         space22,
         space24,
         space33
